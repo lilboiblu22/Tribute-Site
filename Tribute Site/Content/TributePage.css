@@ -1,0 +1,21 @@
+﻿body {}
+
+    h1{
+      font-family:Verdana;
+    }
+
+p {
+    font-size: larger;
+    font-family: Geneva;
+}
+    figcaption {
+    font-size: larger;
+    font-family: Tahoma;
+    }
+    li {
+
+    }
+
+h3 {
+    font-family: Tahoma;
+   }
