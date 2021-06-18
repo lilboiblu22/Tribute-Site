@@ -1,0 +1,59 @@
+﻿body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: Verdana;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+p {
+    font-size: larger;
+    font-family: Verdana;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: burlywood;
+    border-radius: 25px;
+    
+}
+div {
+    font-family: Tahoma;
+    text-align: center;
+    background-color: burlywood;
+    border-radius: 25px;
+}
+#p2 {
+    background-color: burlywood;
+    border-radius: 25px;
+}
+
+    blockquote {
+    font-size: larger;
+    font-family: Tahoma;
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+
+
+li {
+    font-family: Tahoma;
+    
+    list-style-position: inside;
+    background-color: cornflowerblue;
+    padding: 15px;
+}
+
+h3 {
+    font-family: Tahoma;
+    background-color: cornflowerblue;
+    text-align:center;
+}
