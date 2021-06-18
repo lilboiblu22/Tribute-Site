@@ -8,7 +8,7 @@
   <form id="form1" runat="server">
     <main id="main">
   <h1 id="title">Linus Torvalds</h1>
-  <p>Open Source brings people together.</p>
+  <p><strong>Open Source brings people together.</strong> </p>
   <div id="img-div">
     <img
       id="image"
@@ -50,9 +50,7 @@
         <li>
         <strong>1999</strong> - He was named by <em>MIT Technology Review TR100</em> as one of the world's leading 100 innovators under the age of 35.
       </li>
-        <li>
-        <strong>2000</strong> - 
-      </li>
+        
       <li>
         <strong>2003</strong> - Torvalds leaves Transmeta and started work at the Open Source Development Labs, who merged with the Free Standards<br /> group to then become
         the Linux Foundation. Torvalds also moved to Dunthrope,Oregon to be closer to OSDL's headquarters.
@@ -78,7 +76,7 @@
     <blockquote
       cite="https://www.brainyquote.com/authors/linus-torvalds-quotes"
     >
-      <p>
+      <p id="p2">
         I get the biggest enjoyment from the random and unexpected places. Linux on cellphones or refrigerators, just because it's so not what I envisioned it.
           Or on supercomputers.
       </p>
